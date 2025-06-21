@@ -1,2 +1,2 @@
-# employee-salary-report
-SQL + Excel project analyzing salary trends by gender and department.
+📊 Employee Salary Report (SQL + Excel Project)
+This is a mini data analysis project using MySQL Workbench and Microsoft Excel to explore salary trends across departments and genders.
